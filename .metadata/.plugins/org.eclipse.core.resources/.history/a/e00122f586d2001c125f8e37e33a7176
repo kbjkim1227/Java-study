@@ -1,0 +1,9 @@
+package p314;
+
+public class HankookTire extends Tire {
+	
+	//필드
+	//생성자
+	
+
+}
