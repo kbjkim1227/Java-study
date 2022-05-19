@@ -3,15 +3,15 @@ package test;
 public class test6 {
 	public static void main(String[] args) {
 		int kuk[] = {95,70,45,60,83};
-		int eng[] = {90,60,65,90,93};
+		int eng[] = {90,60,15,90,93};
 		int mat[] = {85,70,45,65,83};
 		int sum[] = new int[5];
 		int max = 0;
-		double avg[] = new double[5];
 		int min = 999;
+		double avg[] = new double[5];
 		String[] name = {"말자","숙자","인자","혼자","혜자"};
 		int myRank[] = new int[5];
-		char gread[] = new char[5];
+		char grade[] = new char[5];
 
 		
 		for(int i=0; i<name.length; i++) {
@@ -22,21 +22,21 @@ public class test6 {
 			if(sum[i] < min) min = sum[i];
 			
 			switch(sum[i]/30) {
-			case 10:			
-			case 9:
-				gread[i] = 'A';
+					
+			case 1:
+				grade[i] = 'A';
 				break;
-			case 8:
-				gread[i] = 'B';
+			case 2:
+				grade[i] = 'B';
 				break;
-			case 7:
-				gread[i] = 'D';
+			case 3:
+				grade[i] = 'D';
 				break;
-			case 6:
-				gread[i] = 'E';
+			case 4:
+				grade[i] = 'E';
 				break;
 			default :
-				gread[i] = 'F';
+				grade[i] = 'F';
 			}
 		}
 		
@@ -46,7 +46,7 @@ public class test6 {
 				if(sum[i]<sum[j])
 					myRank[i] ++;
 			}
-			for (int j = 0; j < gread.length; j++) {
+			for (int j = 0; j < grade.length; j++) {
 
 				
 			}
@@ -63,7 +63,7 @@ public class test6 {
 			
 			
 			System.out.println((i+1) + "\t" + name[i] + "\t" + kuk[i] + "\t" + 
-		eng[i] + "\t" + mat[i] + "\t" + sum[i] + "\t" + gread[i] + "\t" + myRank[i] + "\t" + Math.round(avg[i]*10)/10.0);
+		eng[i] + "\t" + mat[i] + "\t" + sum[i] + "\t" + grade[i] + "\t" + myRank[i] + "\t" + Math.round(avg[i]*10)/10.0);
 		
 	
 	}

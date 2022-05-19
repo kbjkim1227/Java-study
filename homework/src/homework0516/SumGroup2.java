@@ -11,10 +11,10 @@ public class SumGroup2 {
 		int total = 0;
 		
 		Outer:
-			for (int i = 1; i < 10; i++) {
+			for (int i = 1; i < 3; i++) {
 				System.out.println(i + "그룹");
 				
-				for (int j = 0; j < 5; j++) {
+				for (int j = 0; j < 2; j++) {
 					System.out.println("정수 :");
 					int t = stdIn.nextInt();
 					if(t == 99999)

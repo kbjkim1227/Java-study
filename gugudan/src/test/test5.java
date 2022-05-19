@@ -11,7 +11,7 @@ public class test5 {
 		for (int i = 0; i < b.length; i++) {
 			a[i] = 1;
 			for (int j = 0; j < b.length; j++) {
-				if (b[i] < b[j])
+				if (b[i] > b[j])
 				
 					a [i] += 1;
 				
