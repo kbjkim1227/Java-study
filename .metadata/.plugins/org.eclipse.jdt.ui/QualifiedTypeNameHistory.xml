@@ -26,13 +26,22 @@
     <fullyQualifiedTypeName name="p314.KumhoTire"/>
     <fullyQualifiedTypeName name="p314.Car"/>
     <fullyQualifiedTypeName name="p314.HankookTire"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.swing.DefaultBoundedRangeModel"/>
     <fullyQualifiedTypeName name="java.lang.Readable"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="p348.Searchable"/>
     <fullyQualifiedTypeName name="p348.RemoteControl"/>
     <fullyQualifiedTypeName name="p348.Television"/>
     <fullyQualifiedTypeName name="p348.Audio"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="javax.print.DocFlavor.INPUT_STREAM"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.Reader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.Writer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
