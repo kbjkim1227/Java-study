@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="chap5.Week"/>
-    <fullyQualifiedTypeName name="p210.Car"/>
-    <fullyQualifiedTypeName name="p238.Calculator"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
-    <fullyQualifiedTypeName name="p244.Singleton"/>
-    <fullyQualifiedTypeName name="p244.Person"/>
-    <fullyQualifiedTypeName name="sec12.exam_import.hyndai.Engine"/>
-    <fullyQualifiedTypeName name="sec12.exam_import.hankook.SnowTire"/>
-    <fullyQualifiedTypeName name="sec12.exam_import.kumho.BigWidthTire"/>
     <fullyQualifiedTypeName name="p290.Cellphone"/>
     <fullyQualifiedTypeName name="p290.DmbCellPhone"/>
     <fullyQualifiedTypeName name="p294.Student"/>
@@ -56,8 +46,18 @@
     <fullyQualifiedTypeName name="chap13.P658.Box"/>
     <fullyQualifiedTypeName name="p658.Box"/>
     <fullyQualifiedTypeName name="p666.Course"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="p666.Person"/>
     <fullyQualifiedTypeName name="p666.Student"/>
     <fullyQualifiedTypeName name="p685.UsingThis.Inner"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Flow.Publisher"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="p695.Student"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.util.function.ToIntFunction"/>
+    <fullyQualifiedTypeName name="p728.ArrayListExample"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
